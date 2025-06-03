@@ -1,12 +1,31 @@
-# React + Vite
+# 💖 MyLoveGift
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um site criado como presente especial, desenvolvido com React + Vite + TailwindCSS, com muito carinho, amor e dedicação.
 
-Currently, two official plugins are available:
+## ✨ Demonstração
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Acesse aqui quando estiver publicado!](https://seu-link.vercel.app) *(Substituir pelo link quando estiver online)*
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React
+- ⚡ Vite
+- 🎨 TailwindCSS
+- 💻 JavaScript
+- 🎥 Sora (para vídeos, se desejar futuramente)
+
+## 🎯 Funcionalidades
+
+- 🎈 Fundo animado com corações caindo.
+- 💖 Design romântico, moderno e responsivo.
+- ✍️ Fontes personalizadas (Google Fonts).
+- 🗓️ Timeline de momentos especiais (em desenvolvimento).
+- ⏳ Contagem regressiva para uma data importante (em desenvolvimento).
+- 🎁 Surpresas e mensagens escondidas (em desenvolvimento).
+
+## 📦 Instalação e execução local
+
+### 1. Clone o repositório:
+
+```bash
+git clone https://github.com/umigorpatrick/mylovegift.git
